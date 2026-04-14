@@ -1,0 +1,16 @@
+{
+  "name": "Dako Cafe",
+  "short_name": "Dako Cafe",
+  "description": "Premium coffee, fresh juices, and delicious food in Dukem.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0c0b0a",
+  "theme_color": "#c8956c",
+  "icons": [
+    {
+      "src": "images/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
